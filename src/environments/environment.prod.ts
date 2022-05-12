@@ -1,11 +1,13 @@
 export const environment = {
   production: true,
   firebaseConfig : {
-    apiKey: "AIzaSyCXdPaMqSvdte2_1ilSNu_-MJQ5Vo4hFK8",
-    authDomain: "simulacroparcial-f179c.firebaseapp.com",
-    projectId: "simulacroparcial-f179c",
-    storageBucket: "simulacroparcial-f179c.appspot.com",
-    messagingSenderId: "872338146804",
-    appId: "1:872338146804:web:360ec7e2294bfc686765a1"
+   apiKey: "AIzaSyBWl8idxcA04kwm0y9IRooCt6PLA-0e0s4",
+    authDomain: "pruebaapp-2afd0.firebaseapp.com",
+    databaseURL: "https://pruebaapp-2afd0-default-rtdb.firebaseio.com",
+    projectId: "pruebaapp-2afd0",
+    storageBucket: "pruebaapp-2afd0.appspot.com",
+    messagingSenderId: "648033465764",
+    appId: "1:648033465764:web:276017e285a90ad30a3d31",
+    measurementId: "G-Q137J92LRT"
   }
 };
